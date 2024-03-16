@@ -1,4 +1,4 @@
-# <center>⚒Analysis of Coal Production in Colombia</center>
+# **⚒Analysis of Coal Production in Colombia**
 
 ![IMAGEN](https://catercoq.com/wp-content/uploads/2019/07/articulo-1.png)
 
