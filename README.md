@@ -1,4 +1,5 @@
- # ⚒ **Analysis of Coal Production in Colombia**
+# <center>⚒Analysis of Coal Production in Colombia</center>
+
 ![IMAGEN](https://catercoq.com/wp-content/uploads/2019/07/articulo-1.png)
 
 A dataset of 4585 rows and 11 features was analyzed. It contained information about coal production, payment of economic compensations for royalties and compensations, mining projects, and their location (departmental and municipal) from 2012 to 2020.
