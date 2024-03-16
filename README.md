@@ -14,3 +14,5 @@ A dataset of 4585 rows and 11 features was analyzed. It contained information ab
 
 * Which mining projects have provided economic compensation to the Colombian state as compensation?
 
+**Data Sources**
+[Agencia Nacional Minera](https://www.datos.gov.co/Minas-y-Energ-a/ANM-Vol-men-de-Explotaci-n-de-Minerales-Asociados-/r85m-vv6c/about_data)
